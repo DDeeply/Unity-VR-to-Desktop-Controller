@@ -1,0 +1,20 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and outputs
+*.log
+*.tmp
+*.rsp
+
+# Build binaries
+bin/
+obj/
+*.dll
+*.pdb
+
+# IDE configs
+.vs/
+.vscode/
+.idea/
